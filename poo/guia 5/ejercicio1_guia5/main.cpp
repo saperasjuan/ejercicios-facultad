@@ -1,18 +1,18 @@
 #include <iostream>
 
+
+
+/*
+    1. Realice una clase que represente números complejos.
+    a) Un número complejo debe ser construido.
+    b) Un número complejo debe sumar, restar, multiplicar y dividir
+ */
 using namespace std;
 
 int main()
 {
-    double real;
-    double imaginaria;
 
-    cout<<"clase que represente un numero complejo"<<endl;
-    cout<<"***************************************"<<endl;
-    cout<<"ingrese la parte real del número complejo: ";
-    cin>>real;
-    cout<<"ingrese la parte imaginaria del número complejo: ";
-    cin>>imaginaria;
+
 
     return 0;
 }

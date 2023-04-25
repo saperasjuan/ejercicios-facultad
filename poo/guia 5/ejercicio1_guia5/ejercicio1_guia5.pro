@@ -5,7 +5,7 @@ CONFIG -= qt
 
 SOURCES += \
         main.cpp \
-        numerocomplejo.cpp
+        numeroscomplejos.cpp
 
 HEADERS += \
-    numerocomplejo.h
+    numeroscomplejos.h
